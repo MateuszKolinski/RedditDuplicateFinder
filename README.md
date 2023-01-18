@@ -5,4 +5,4 @@ A Python script for finding and reporting duplicate Reddit submissions as a mode
 
 Fetches all submission titles on a specific subreddit via pushshift and then matches them with the current submission stream.
 
-If names match, sends a report with previous submission's IDs for moderators to check and act upon.
+If names match, script sends a report with previous submission's IDs for moderators to check and act upon.
