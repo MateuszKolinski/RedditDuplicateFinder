@@ -10,13 +10,8 @@ If names match, script sends a report with previous submission's IDs for moderat
 Requires a .ini file configured as follows:
 
 [setup]
-
 client_id = 
-
 client_secret = 
-
 password = 
-
 user_agent = 
-
 username = 
